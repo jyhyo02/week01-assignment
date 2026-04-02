@@ -20,14 +20,14 @@
 submissions/jyhyo02/
 ├── README.md                 # 이 파일 - 과제 설명 및 실행 가이드
 ├── practice1-env.md          # 실습 1: 개발 환경 버전 확인 결과
-├── images/                   # 스크린샷 및 증빙 자료
-│   ├── html.png              # 실습 2: 자기소개 웹 페이지 실행 화면
-│   ├── react.png             # 실습 4: React 프로젝트 실행 화면
-│   └── SpringbootHello.png   # 실습 5: Spring Boot API 응답 화면
 └── week01-page/              # 실습 2: 자기소개 정적 웹 페이지
     ├── index.html            # HTML 구조
     ├── style.css             # CSS 스타일
-    └── main.js               # JavaScript 로직
+    ├── main.js               # JavaScript 로직
+    └── images/               # 스크린샷 및 증빙 자료
+        ├── html.png          # 실습 2: 자기소개 웹 페이지 실행 화면
+        ├── react.png         # 실습 4: React 프로젝트 실행 화면
+        └── SpringbootHello.png # 실습 5: Spring Boot API 응답 화면
 ```
 
 ---
@@ -59,7 +59,7 @@ submissions/jyhyo02/
 
 **실행 화면:**
 
-![자기소개 웹 페이지](./images/html.png)
+![자기소개 웹 페이지](./week01-page/images/html.png)
 
 ---
 
@@ -106,7 +106,7 @@ export default App;
 
 **실행 화면:**
 
-![React 프로젝트](./images/react.png)
+![React 프로젝트](./week01-page/images/react.png)
 
 ---
 
@@ -137,6 +137,6 @@ public class HelloController {
 
 **API 응답 화면:**
 
-![Spring Boot Hello API](./images/SpringbootHello.png)
+![Spring Boot Hello API](./week01-page/images/SpringbootHello.png)
 
 
