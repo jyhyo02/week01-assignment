@@ -57,6 +57,8 @@ submissions/jyhyo02/
 - 버튼 클릭 시 alert 팝업
 - 브라우저 Console(F12)에 현재 시간 출력
 
+**배포 주소:** https://jyhyo02.github.io/likelion_week01/submissions/jyhyo02/week01-page/
+
 **실행 화면:**
 
 ![자기소개 웹 페이지](./week01-page/images/html.png)

@@ -2,7 +2,7 @@ body {
     background-color: #f0f0f0;
 }
 
-h1 {
+h1 { 
     color: #C05621;
     font-size: 50px;
     font-family: 'Noto Sans KR', sans-serif;
@@ -18,7 +18,7 @@ p {
     margin-top: 10px;
 }
 
-button {
+button { 
     display: block;
     padding: 10px 20px;
     font-size: 16px;
